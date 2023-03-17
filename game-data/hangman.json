@@ -1,0 +1,58 @@
+{
+    "words": [
+        {
+            "word": "algorithm",
+            "description": "An unambiguous specification of a design or how to solve a problem. It can perform calculations, data processing and automated reasoning tasks. and in 'computational thinking' and programming"
+        },
+
+        {
+            "word": "template",
+            "description": "Something that establishes or serves as a pattern"
+        },
+
+        {
+            "word": "artificial",
+            "description": "Human-made"
+        },
+
+        {
+            "word": "privacy",
+            "description": "Keeping yourself and your personal information data safe when off and online"
+        },
+
+        {
+            "word": "integer",
+            "description": "A data type in programming languages, representing a whole number positive or negative"
+        },
+
+        {
+            "word": "boolean",
+            "description": "A simple data type having just two possible values: true and false"
+        },
+
+        {
+            "word": "binary",
+            "description": "Numbers expressed in the base of two, using 0 and 1 only"
+        },
+
+        {
+            "word": "ternary",
+            "description": "Numbers expressed in the base of three, instead of 10, using 0, 1 and 2 only"
+        },
+
+        {
+            "word": "octal",
+            "description": "Numbers expressed in the base of eight, instead of 10, using 0, 1, 2,3 4, 5, 6 and 7 only"
+        },
+
+        {
+            "word": "decimal",
+            "description": "Numbers expressed in the base of 10, using 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9 only"
+        },
+
+        {
+            "word": "hexadecimal",
+            "description": "Numbers expressed in the base of sixteen, instead of 10, using 0, 1, 2,3 4, 5, 6, 7, 8, 9, a, b, c, d, e ond f"
+        }
+    ]
+}
